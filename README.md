@@ -1,2 +1,40 @@
-# student-portal-demo
-Portal
+# Student-portal-demo
+
+This is a demo project for a basic **Student Portal Application** designed to streamline academic interactions between students and their institution.
+
+## Purpose
+
+The goal of this application is to provide students with a centralized platform to:
+- View personal academic records
+- Access course materials
+- Submit assignments
+- Communicate with faculty
+- Track attendance and grades
+
+## Features (Planned)
+
+- User Authentication: Secure login for students and faculty
+- Dashboard: Personalized overview of courses, deadlines, and announcements
+- Course Management: Enroll in courses, view syllabi, and download resources
+- Assignment Submission: Upload assignments and receive feedback
+- Messaging System: Chat with instructors and classmates
+- Notifications: Real-time alerts for grades, updates, and deadlines
+
+## Tech Stack
+
+- Frontend: React.js
+- Backend: Node.js + Express
+- Database: MongoDB
+- Authentication: JWT-based login system
+
+## Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/your-username/student-portal-demo.git
+cd student-portal-demo
+npm install
+npm start
+
+
